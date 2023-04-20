@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "enblafoods.app"
-               BlueprintName = "enblafoods"
-               ReferencedContainer = "container:enblafoods.xcodeproj">
+               BuildableName = "enblaFoods.app"
+               BlueprintName = "enblaFoods"
+               ReferencedContainer = "container:enblaFoods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "enblafoodsTests.xctest"
-               BlueprintName = "enblafoodsTests"
-               ReferencedContainer = "container:enblafoods.xcodeproj">
+               BuildableName = "enblaFoodsTests.xctest"
+               BlueprintName = "enblaFoodsTests"
+               ReferencedContainer = "container:enblaFoods.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "enblafoods.app"
-            BlueprintName = "enblafoods"
-            ReferencedContainer = "container:enblafoods.xcodeproj">
+            BuildableName = "enblaFoods.app"
+            BlueprintName = "enblaFoods"
+            ReferencedContainer = "container:enblaFoods.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "enblafoods.app"
-            BlueprintName = "enblafoods"
-            ReferencedContainer = "container:enblafoods.xcodeproj">
+            BuildableName = "enblaFoods.app"
+            BlueprintName = "enblaFoods"
+            ReferencedContainer = "container:enblaFoods.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
