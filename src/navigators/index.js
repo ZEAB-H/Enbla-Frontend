@@ -10,8 +10,10 @@ const Navigators=()=>{
 
         <NavigationContainer>
             <Stack.Navigator>
-                <Stack.Screen name="splash"/>
+                <Stack.Screen name="splash" component={SplashScreen}     />
             </Stack.Navigator>
         </NavigationContainer>
     )
 }
+
+export default Navigators;
