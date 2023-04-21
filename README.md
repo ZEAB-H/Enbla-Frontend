@@ -20,5 +20,9 @@
 ## Note: 
     A. Setup of the collaboration environment AKA- GITHUB.
     B. Setup of Development enviroment and integration with the remote workspace
-    c. 
+
+
+## Date: April 10 , 2023 -Mon
+## Note: 
+    A.BAsic UI for the mobile app is Developed
 
